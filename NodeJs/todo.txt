@@ -1,0 +1,8 @@
+1.create a js file
+2.In your js file console a greeting
+3.check if you can run your
+  js file using node
+  <node <filename or filepath'>
+4.go to package.json
+  add script start.
+  to run your file

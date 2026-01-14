@@ -1,0 +1,15 @@
+Goal
+1.To know the 
+  difference btwn
+  npm and npx.
+2.Exercise of create
+ a react app 2 ways
+ using vite.
+3.Using npm 
+4.Using npx
+
+---Using Npm To create a react app---
+1.you need to install
+  -Recomended you install global
+  create-vite:tool 
+  CMD:npm install create-vite -g
